@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/ig.branavan/)
 
-- 👨‍💻 All of my projects are available at [branavan.me](branavan.me)
+- 👨‍💻 All of my projects are available at tpranavan
 
 - 💬 Ask me about **MERN**
 
