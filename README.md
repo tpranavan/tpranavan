@@ -32,6 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tpranavan&show_icons=true&locale=en" alt="tpranavan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tpranavan&show_icons=true&locale=en" alt="tpranavan" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tpranavan)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tpranavan&theme=ayu-light&mode=weekly)](https://git.io/streak-stats)
