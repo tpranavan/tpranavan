@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranavan Theivendran</h1>
+<h1 align="center">Hi 👋 I'm Pranavan Theivendran</h1>
 <h3 align="center">A passionate  Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg?compress=1&resize=800x600&vertical=top">
 
