@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pranavan.info@gmail.com**
 
-- ⚡ Fun fact **I spend almost 5 hours code + listening songs everyday and read atlease 2Hr perday.**
+- ⚡ Fun fact **I spend almost 1 hours code + listening songs everyday and read atlease 1Hr perday.**
 
 
 
