@@ -33,11 +33,18 @@ Results-driven software engineer with a proven track record of designing, develo
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- Java & Spring Boot development across microservices, MVC, RESTful API design, JDBC data access, and Flyway migrations
+- Node.js and Express services, GraphQL APIs, and JSON/XML integrations with Swagger/OpenAPI governance
+- Google Apigee and API management for REST standards, security, and lifecycle governance
+- Apache Kafka streaming, ETL workloads, and data structures optimization for high-throughput systems
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,6 +53,40 @@ Results-driven software engineer with a proven track record of designing, develo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
 
+- DevOps & CI/CD automation with GitHub Actions, Jenkins, Git workflows, and Dockerized delivery pipelines
+- Observability and quality gates using Datadog, SonarCloud, and xMatters integrations
+- Incident response and ITSM processes through ServiceNow, Jira, and production support playbooks
+- Linux command-line proficiency for infrastructure management and troubleshooting
+
+### Cloud Platforms & Infrastructure
+
+- **AWS:** EC2, S3, IAM roles, AWS Systems Manager Parameter Store, SQS polling, security hardening
+- **Google Cloud Platform:** Apigee API Manager, Google OAuth2 & IAM, VMs, workload security
+- **Azure:** SSO integration, Active Directory administration, enterprise identity management
+- Vercel deployments, Docker-based workloads, and hybrid cloud networking
+
+### Databases & Data Engineering
+
+- SQL development across PostgreSQL and MySQL, schema design, and performance-tuned queries
+- Data migration, ETL pipelines, and versioned database deployments with Flyway
+- JSON/XML data modeling, JDBC connectivity, and data structures for scalable services
+
+### Testing & Quality Assurance
+
+- Unit, integration, functional, and Postman tests embedded in CI/CD pipelines
+- Frameworks: JUnit, Mockito, Postman, Swagger/OpenAPI contract validation
+- REST standards compliance, API mocking, and regression automation strategies
+
+### Project Leadership & Delivery
+
+- Agile methodology and Scrum ceremonies, SDLC governance, and cross-functional project management
+- Jira roadmapping, release planning, KPI tracking, and stakeholder communication
+- Production troubleshooting, customer support, and CRM workflows with Salesforce
+
+### AI & Productivity Tooling
+
+- AI-assisted development with ChatGPT, GitHub Copilot, and Google Gemini
+- API-first development practices, API management strategies, and continuous learning across emerging tools
 ## Professional Experience
 
 ### Senior Software Engineer
