@@ -117,18 +117,6 @@ Results-driven software engineer with a proven track record of designing, develo
 - 🏆 **Team Leadership:** Led teams of engineers across multiple streams, coordinating delivery schedules and cross-team dependencies
 - 🏆 **Innovation:** Introduced automation and tooling that accelerated development workflows and improved release quality
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranavant&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Pranavan's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Pranavan's top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=pranavant&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Pranavan's GitHub streak" />
-
-</div>
-
 ## Certifications & Continuous Learning
 
 - AWS Certified Solutions Architect – Associate — Amazon Web Services (2024)
