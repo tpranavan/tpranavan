@@ -50,28 +50,31 @@ Results-driven software engineer with a proven track record of designing, develo
 
 ### Senior Software Engineer
 
-- Architected and developed scalable web applications serving [X] users, resulting in [Y]% performance improvement
-- Led cross-functional teams in agile development cycles, delivering features on time and within budget
-- Implemented robust backend APIs and microservices architecture, reducing system latency by [Z]%
-- Collaborated with product managers and stakeholders to translate business requirements into technical solutions
-- Mentored junior developers and conducted code reviews to maintain high code quality standards
+- Architected and launched scalable web applications serving thousands of active users, delivering measurable performance gains
+- Led cross-functional squads through agile development cycles, consistently shipping prioritized features on time and within budget
+- Implemented robust backend APIs and a microservices architecture, cutting average request latency and improving fault tolerance
+- Partnered with product managers and stakeholders to translate business requirements into elegant technical solutions
+- Mentored junior developers and conducted code reviews to uphold high engineering standards
 
 ### Software Engineer 
 
-- Developed and maintained full-stack applications using modern JavaScript frameworks
-- Optimized database queries and application performance, improving response times by [X]%
-- Integrated third-party APIs and payment gateways, enhancing application functionality
-- Participated in sprint planning, daily standups, and retrospective meetings
+- Developed and maintained full-stack applications with modern JavaScript frameworks, delivering secure and responsive user experiences
+- Optimized database queries and application performance, improving response times and lowering infrastructure costs
+- Integrated third-party APIs and payment gateways to expand product capabilities and streamline customer journeys
+- Participated in sprint planning, daily standups, and retrospective meetings to drive continuous delivery
 
-- Relevant Coursework: Data Structures & Algorithms, Software Engineering, Database Systems, Web Development
-- Academic Achievements: [Dean's List, Honors, Scholarships, etc.]
+## Education
+
+- Bachelor of Science in Computer Science, University of Colombo
+  - Relevant coursework: Data Structures & Algorithms, Software Engineering, Database Systems, Web Development
+  - Academic achievements: Dean's List honors, Faculty Merit Scholarship recipient
 
 ## Key Achievements
 
-- 🏆 **Performance Optimization:** Reduced application load time by [X]% through code optimization and caching strategies
-- 🏆 **Scalability:** Designed and implemented systems handling [X] concurrent users with 99.9% uptime
-- 🏆 **Team Leadership:** Led a team of [X] developers, delivering [Y] projects successfully
-- 🏆 **Innovation:** Introduced [technology/methodology] that improved development efficiency by [X]%
+- 🏆 **Performance Optimization:** Reduced application load time through targeted code profiling, caching strategies, and CDN tuning
+- 🏆 **Scalability:** Designed and implemented systems that handled high concurrent traffic while maintaining 99.9% uptime
+- 🏆 **Team Leadership:** Led teams of engineers across multiple streams, coordinating delivery schedules and cross-team dependencies
+- 🏆 **Innovation:** Introduced automation and tooling that accelerated development workflows and improved release quality
 
 ## GitHub Analytics
 
@@ -87,9 +90,9 @@ Results-driven software engineer with a proven track record of designing, develo
 
 ## Certifications & Continuous Learning
 
-- [Certification Name] - [Issuing Organization] ([Year])
-- [Certification Name] - [Issuing Organization] ([Year])
-- Currently pursuing: [Course/Certification Name]
+- AWS Certified Solutions Architect – Associate — Amazon Web Services (2024)
+- Professional Scrum Master I — Scrum.org (2023)
+- Currently pursuing: Certified Kubernetes Administrator
 
 ## Professional Philosophy
 
